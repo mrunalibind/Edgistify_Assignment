@@ -64,6 +64,7 @@ If your application relies on external APIs, document them and include any neces
 
 ## API Endpoints
 In case of Backend Applications provide a list of your API endpoints, methods, brief descriptions, and examples of request/response.
+
 POST /api/user/register - user registeration
 POST /api/user/login - user login
 
