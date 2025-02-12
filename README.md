@@ -17,7 +17,8 @@ Edgistify_Assignment/
 │  ├─ ...
 
 ## Video Walkthrough of the project
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
+[Video Walkthrough] (https://drive.google.com/file/d/1bVUwGaktogpoJzFoLrk0s4txzEorbYmc/view?usp=sharing)
+
 
 ## Video Walkthrough of the codebase
 Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
