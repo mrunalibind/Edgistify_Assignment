@@ -64,8 +64,15 @@ If your application relies on external APIs, document them and include any neces
 
 ## API Endpoints
 In case of Backend Applications provide a list of your API endpoints, methods, brief descriptions, and examples of request/response.
-GET /api/items - retrieve all items
-POST /api/items - create a new item
+POST /api/user/register - user registeration
+POST /api/user/login - user login
+
+GET /api/product/getProducts - to get Products
+
+POST /api/cart/addProductToCart - Click on Add to cart button, product will be added to cart
+GET /api/cart/getCartProduct - to get product added by user in the cart
+
+POST /api/order/placeOrder - Order placed successfully after submitting checkout form.
 
 
 ## Technology Stack
